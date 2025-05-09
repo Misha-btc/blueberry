@@ -1,3 +1,5 @@
+![blueberry](./barry.svg)
+
 # free-mint
 
 These are the sources for the template deployed at [4, 797].
