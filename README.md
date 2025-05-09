@@ -1,4 +1,4 @@
-![blueberry](./barry.svg)
+![blueberry](./berry.svg)
 
 # free-mint
 
